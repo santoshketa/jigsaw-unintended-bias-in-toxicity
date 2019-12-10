@@ -9,4 +9,4 @@ I have divided project into two parts
 
 Part1:EDA and basic ml models.
 
-Paft2: Advanced DL models .
+Part2: Advanced DL models.
